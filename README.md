@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+[![21-sin-t-tulo-20220909013518.png](https://i.postimg.cc/W4F23HMZ/21-sin-t-tulo-20220909013518.png)](https://postimg.cc/QBDLYSYN)
 
 <div align="center">
   <a href="https://github.com/XGilmar">
