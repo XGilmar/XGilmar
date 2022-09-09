@@ -3,7 +3,9 @@
 <h2 align="center">Hola, mi nombre real es Gilmar Escudero</h2>
 <h3 align="center">Soy un Colombiano que le apasiona mucho el desarrollo Frontend 🇨🇴</h3>
 
-  ##
+
+##
+
 
 <div align="center">
   <a href="https://github.com/XGilmar">
