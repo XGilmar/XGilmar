@@ -1,6 +1,6 @@
 [![21-sin-t-tulo-20220909013518.png](https://i.postimg.cc/W4F23HMZ/21-sin-t-tulo-20220909013518.png)](https://postimg.cc/QBDLYSYN)
 
-<h2 align="center">Hola, mi nombre real es Gilmar Escudero</h2>
+<h3 align="center">Hola, mi nombre real es Gilmar Escudero</h3>
 
   ##
 
