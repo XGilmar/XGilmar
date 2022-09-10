@@ -1,7 +1,7 @@
 [![21-sin-t-tulo-20220909013518.png](https://i.postimg.cc/W4F23HMZ/21-sin-t-tulo-20220909013518.png)](https://postimg.cc/QBDLYSYN)
 
-<h2 align="center">Hola, mi nombre real es Gilmar Escudero</h2>
-<p align="center">Soy un Colombiano que le apasiona mucho el desarrollo Frontend 🇨🇴</p>
+<h2 align="center">Bienvenido a mi perfíl</h2>
+<p align="center">Hola, soy un Colombiano que le apasiona mucho el desarrollo Frontend 🇨🇴. Aquí podrás encontrar algunos de mis proyectos</p>
 
 
 ##
