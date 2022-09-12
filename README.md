@@ -9,18 +9,25 @@
 ##
 
 
-<div align="center" style="display: inline_block">
+<div align="center">
   <a href="https://github.com/XGilmar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGilmar&layout=compact&langs_count=7&theme=tokyonight"/>
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XGilmar&theme=tokyonight_duo&hide_border=true)](https://github.com/ShukuraliProgrammer/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 </div>  
 
+<div align="center">
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XGilmar&theme=tokyonight_duo&hide_border=true)](https://github.com/ShukuraliProgrammer/) |
+| ------------- | ------------- |
+
+</div>
+
   ##
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=XGilmar&label=Visitors&color=12&icon=5&pretty=true" />
 </a>
