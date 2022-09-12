@@ -25,9 +25,12 @@
 
   ##
 
+<div>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=XGilmar&label=Visitors&color=12&icon=5&pretty=true" />
 </a>
+</div>
+<br>
 <div align="center"> 
   <a href="https://www.tiktok.com/@bzz_program?_t=8VaEudWRNYb&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href="mailto:gilmar01eduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
