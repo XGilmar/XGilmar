@@ -9,9 +9,10 @@
 ##
 
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/XGilmar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGilmar&layout=compact&langs_count=7&theme=tokyonight"/>
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XGilmar&theme=tokyonight_duo&hide_border=true)](https://github.com/ShukuraliProgrammer/)
