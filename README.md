@@ -3,6 +3,8 @@
 <h1 align="center">Bienvenido a mi perfíl</h1>
 <p align="center">Hola, soy un Colombiano que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos 🇨🇴</p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=fff&width=435&lines=My+name+is+Dima%2C+I+am+a+software+engineer.)](https://git.io/typing-svg)
+
 
 ##
 
