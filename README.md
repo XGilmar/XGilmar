@@ -1,7 +1,7 @@
 [![21-sin-t-tulo-20220909013518.png](https://i.postimg.cc/W4F23HMZ/21-sin-t-tulo-20220909013518.png)](https://postimg.cc/QBDLYSYN)
 
 <h1 align="center">Bienvenido a mi perfíl</h1>
-<p align="center">Hola, soy un Colombiano que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos 🇨🇴</p>
+<p align="center">Hola, Soy Gilmar un colombiano que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos 🇨🇴</p>
 
 
 ##
