@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/XGilmar">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGilmar&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGilmar&layout=compact&langs_count=7&theme=radical"/>
  
 </div>  
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-| <img align="center" height="30%" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> | <img align="center" height="30%" src="http://github-readme-streak-stats.herokuapp.com?user=XGilmar&theme=tokyonight&hide_border=true"/> |
+| <img align="center" height="30%" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> | <img align="center" height="30%" src="http://github-readme-streak-stats.herokuapp.com?user=XGilmar&theme=radical&hide_border=true"/> |
 | ------------- | ------------- |
 
 </div>
