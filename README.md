@@ -14,7 +14,7 @@
  
 </div>  
 
-> **Mis estadísticas**
+> **<p>Mis estadísticas</p>**
 
 <div align="center">
 
