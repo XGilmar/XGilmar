@@ -18,7 +18,7 @@
 
 <div align="center">
 
-| <img align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> | <img align="center" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=XGilmar&theme=tokyonight_duo&hide_border=true"/> |
+| <img align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> | <img align="center" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=Mosespt&theme=radical&hide_border=true"/> |
 | ------------- | ------------- |
 
 </div>
