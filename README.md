@@ -16,11 +16,11 @@
 
 > **<p>Mis estadísticas</p>**
 
-<div align="center">
 
-| <img align="center" height="30%" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> | <img align="center" height="30%" src="http://github-readme-streak-stats.herokuapp.com?user=XGilmar&theme=radical&hide_border=true"/> |
-| ------------- | ------------- |
-
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Mr-MRF-Dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mr MRF github stats"/> 
+ 
+  <img width="41%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-MRF-Dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
 </div>
 
   ##
