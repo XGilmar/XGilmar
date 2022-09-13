@@ -27,7 +27,7 @@
 
 <div>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=XGilmar&label=Visitas&color=12&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=XGilmar&label=Visitas&color=12&icon=6&pretty=true" />
 </a>
 </div>
 <br>
