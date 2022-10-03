@@ -25,7 +25,7 @@
 
 ##
 
-> **mis redes**
+> **Mis redes**
 
 <div align="center"> 
   <a href="https://www.tiktok.com/@bzz_program?_t=8VaEudWRNYb&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
