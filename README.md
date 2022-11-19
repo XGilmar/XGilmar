@@ -1,6 +1,6 @@
-<h2 align="center">Bienvenido a mi perfíl</h2>
 
-[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202842649-73cd19b8-ae9d-47b8-98e4-5cfd9bf4cd01.png)](https://postimg.cc/QBDLYSYN)
+
+[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202842649-73cd19b8-ae9d-47b8-98e4-5cfd9bf4cd01.png)]()
 
 
 <p align="left">Hola, soy Gilmar un colombiano que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos.</p>
