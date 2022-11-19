@@ -3,7 +3,7 @@
 [![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202844041-69b4aca9-42e9-4a9b-b926-e98b62422fef.png)]()
 
 
-<p align="left">Hola, soy Gilmar un colombiano que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos.</p>
+<p align="left">Hola, soy Gilmar un estudiante de colombia que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos.</p>
 
 
 ##
