@@ -1,6 +1,6 @@
 
 
-[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202842649-73cd19b8-ae9d-47b8-98e4-5cfd9bf4cd01.png)]()
+[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202843619-ed53ca14-2655-4385-87da-83baaa74b062.png)]()
 
 
 <p align="left">Hola, soy Gilmar un colombiano que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos.</p>
