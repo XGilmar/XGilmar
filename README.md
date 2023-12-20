@@ -7,10 +7,13 @@
 <img align="left" width=270 height=270 src="https://github.com/XGilmar/XGilmar/assets/86094668/d4c73550-08f3-4ee8-8958-16cba6288f07" alt="profile"/>
 </div>
 
+<div align="left">
 <i align="left">¡Hola bienvenido a este espacio de código! 🚀 Soy <b>Gilmar</b>, un entusiasta desarrollador de software especializado en el <b>backend.</b> Aquí exploraremos juntos el fascinante mundo de la programación con diversos proyectos creados, ¡Prepárate para sumergirte en líneas de código y desafíos apasionantes! Si tienes alguna pregunta o simplemente quieres discutir sobre el emocionante universo del backend, ¡estoy aquí para ayudar! 👨‍💻✨</i>
+</div>
 
 ##
 
+<!--
 > **<p>Mis estadísticas</p>**
 
 
@@ -29,5 +32,7 @@
   
   <a href="https://www.instagram.com/srjak.dev?r=nametag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gilmarescudero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  -->
   <a href="mailto:gilmar01eduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> -->
