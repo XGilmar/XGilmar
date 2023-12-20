@@ -3,7 +3,7 @@
 <!--[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202844041-69b4aca9-42e9-4a9b-b926-e98b62422fef.png)]()
 -->
 
-<div align="center">
+<div align="left">
 <img align="left" width=270 height=270 src="https://github.com/XGilmar/XGilmar/assets/86094668/d4c73550-08f3-4ee8-8958-16cba6288f07" alt="profile"/>
 </div>
 
