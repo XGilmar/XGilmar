@@ -3,8 +3,9 @@
 <!--[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202844041-69b4aca9-42e9-4a9b-b926-e98b62422fef.png)]()
 -->
 
-<div align="right">
-<img align="right" width=280 height=280 src="https://github.com/XGilmar/XGilmar/assets/86094668/d4c73550-08f3-4ee8-8958-16cba6288f07" alt="profile"/>
+
+<div align="left">
+<img align="left" width=120 height=120 src="https://github.com/XGilmar/XGilmar/assets/86094668/d007bbcc-c0f8-4364-ae20-7de3d9e7adda" alt="profile"/>
 </div>
 
 <div align="left">
