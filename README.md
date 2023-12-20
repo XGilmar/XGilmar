@@ -5,7 +5,9 @@
 
 <p align="left">Hola, soy Gilmar un estudiante de colombia que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos.</p>
 -->
-![perfil2](https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f)
+<div align="center">
+<img align="center" width="100" height="100" src="https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f" alt="profile"/>
+</div>
 
 ##
 
