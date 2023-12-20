@@ -13,16 +13,15 @@
 
 ##
 
+
 <table  border="0px">
     <tr>
         <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/43a78224-3bb1-47fb-830a-449c2c9b6610" alt="Girl in a jacket" width="120" height="120" ></td>
-        <td style='border:none;'><img src="https://img.shields.io/badge/-Wordpress-21759b?logo=wordpress&logoColor=white&style=for-the-badge" alt="Girl in a jacket" width="130" height="30" style='border:none;'></td>
-        <td style='border:none;'><img src="https://img.shields.io/badge/-mongodb-10AA50?logo=mongodb&logoColor=white&style=for-the-badge" alt="Girl in a jacket" width="130" height="30" style='border:none;'></td>
-        <td style='border:none;'><img src="https://img.shields.io/badge/-git-E84D31?logo=git&logoColor=white&style=for-the-badge" alt="Girl in a jacket" width="80" height="30" style='border:none;'></td>
-        <td style='border:none;'><img src="https://img.shields.io/badge/-npm-000000?logo=npm&logoColor=white&style=for-the-badge" alt="Girl in a jacket" width="80" height="30" style='border:none;'></td>
-        <td style='border:none;'><img src="https://img.shields.io/badge/-react-000000?logo=react&logoColor=7CDFFE&style=for-the-badge" alt="Girl in a jacket" width="95" height="30" style='border:none;'></td>
+        <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/13e434f6-230b-470e-8a81-e56c744f07e6" alt="Girl in a jacket" width="120" height="120" style='border:none;'></td>
+        <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/b04ac019-4efa-42e9-82aa-379638fb9658" alt="Girl in a jacket" width="120" height="120" style='border:none;'></td>
+        <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/e0626359-26bc-443c-a4f0-a1222ef46283" alt="Girl in a jacket" width="120" height="120" style='border:none;'></td>
     </tr>
-    
+
 </table>
 <!--
 > **<p>Mis estadísticas</p>**
