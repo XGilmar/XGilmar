@@ -18,11 +18,10 @@
 <table align="center" border="0px">
     <tr>
         <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/43a78224-3bb1-47fb-830a-449c2c9b6610" alt="Girl in a jacket" width="120" height="120" ></td>
-        <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/13e434f6-230b-470e-8a81-e56c744f07e6" alt="Girl in a jacket" width="120" height="120" style='border:none;'></td>
+        <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/c644c22f-f13a-4278-a18a-a6ac37dcc50f" alt="Girl in a jacket" width="120" height="120" style='border:none;'></td>
         <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/f263e07c-157a-454c-9f8c-4a4f62e4c9ba" alt="Girl in a jacket" width="120" height="120" style='border:none;'></td>
         <td style='border:none;'><img src="https://github.com/XGilmar/XGilmar/assets/86094668/e0626359-26bc-443c-a4f0-a1222ef46283" alt="Girl in a jacket" width="120" height="120" style='border:none;'></td>
     </tr>
-
 
 </table>
 <!--
