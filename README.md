@@ -3,15 +3,12 @@
 <!--[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202844041-69b4aca9-42e9-4a9b-b926-e98b62422fef.png)]()
 -->
 <div align="center">
-<img align="center" width=100 height=100 src="https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f" alt="profile"/>
+<img align="center" width=270 height=270 src="https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f" alt="profile"/>
 </div>
 
-<p align="left">Hola, soy Gilmar un estudiante de colombia que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos.</p>
-
-
+<i align="center">¡Hola bienvenido a este espacio de código! 🚀 Soy Gilmar, un entusiasta desarrollador de software especializado en el backend. Aquí exploraremos juntos el fascinante mundo de la programación con diversos proyectos creados, ¡Prepárate para sumergirte en líneas de código y desafíos apasionantes! Si tienes alguna pregunta o simplemente quieres discutir sobre el emocionante universo del backend, ¡estoy aquí para ayudar! 👨‍💻✨</i>
 
 ##
-
 
 > **<p>Mis estadísticas</p>**
 
