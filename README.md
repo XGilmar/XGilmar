@@ -1,13 +1,14 @@
 
 
 <!--[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202844041-69b4aca9-42e9-4a9b-b926-e98b62422fef.png)]()
-
-
-<p align="left">Hola, soy Gilmar un estudiante de colombia que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos.</p>
 -->
 <div align="center">
-<img align="center" width="100" height="100" src="https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f" alt="profile"/>
+<img align="center" width=100 height=100 src="https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f" alt="profile"/>
 </div>
+
+<p align="left">Hola, soy Gilmar un estudiante de colombia que le apasiona mucho el desarrollo Frontend. Aquí podrás encontrar algunos de mis proyectos.</p>
+
+
 
 ##
 
