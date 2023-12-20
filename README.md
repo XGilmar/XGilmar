@@ -9,10 +9,6 @@
 
 <i align="left">¡Hola bienvenido a este espacio de código! 🚀 Soy <b>Gilmar</b>, un entusiasta desarrollador de software especializado en el <b>backend.</b> Aquí exploraremos juntos el fascinante mundo de la programación con diversos proyectos creados, ¡Prepárate para sumergirte en líneas de código y desafíos apasionantes! Si tienes alguna pregunta o simplemente quieres discutir sobre el emocionante universo del backend, ¡estoy aquí para ayudar! 👨‍💻✨</i>
 
-<div align="center">
-<img align="right" width=260 height=260 src="https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f" alt="profile"/>
-</div>
-
 ##
 
 > **<p>Mis estadísticas</p>**
