@@ -2,11 +2,16 @@
 
 <!--[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202844041-69b4aca9-42e9-4a9b-b926-e98b62422fef.png)]()
 -->
+
 <div align="center">
-<img align="right" width=260 height=260 src="https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f" alt="profile"/>
+<img align="left" width=270 height=270 src="https://github.com/XGilmar/XGilmar/assets/86094668/d4c73550-08f3-4ee8-8958-16cba6288f07" alt="profile"/>
 </div>
 
 <i align="left">¡Hola bienvenido a este espacio de código! 🚀 Soy <b>Gilmar</b>, un entusiasta desarrollador de software especializado en el <b>backend.</b> Aquí exploraremos juntos el fascinante mundo de la programación con diversos proyectos creados, ¡Prepárate para sumergirte en líneas de código y desafíos apasionantes! Si tienes alguna pregunta o simplemente quieres discutir sobre el emocionante universo del backend, ¡estoy aquí para ayudar! 👨‍💻✨</i>
+
+<div align="center">
+<img align="right" width=260 height=260 src="https://github.com/XGilmar/XGilmar/assets/86094668/681137e5-012f-4a77-8cea-1ec56affa84f" alt="profile"/>
+</div>
 
 ##
 
