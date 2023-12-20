@@ -5,7 +5,7 @@
 
 
 <div align="left">
-<img align="left" width=120 height=120 src="https://github.com/XGilmar/XGilmar/assets/86094668/d007bbcc-c0f8-4364-ae20-7de3d9e7adda" alt="profile"/>
+<img align="left" width=130 height=130 src="https://github.com/XGilmar/XGilmar/assets/86094668/d007bbcc-c0f8-4364-ae20-7de3d9e7adda" alt="profile"/>
 </div>
 
 <div align="left">
