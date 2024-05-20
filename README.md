@@ -11,6 +11,7 @@
 - 👋 <i>Hi, I’m <b>Gilmar</b></i>
 - 🌱 <i>I am an enthusiastic software developer with a special passion for the <b>backend.</b></i>
 - 👨‍💻 <i>In this space, I will share my projects and knowledge about programming, hoping to inspire and help other developers.</i>
+- 🚀 <i>I’m looking to collaborate on projects that take my skills to another level.</i>
     
 
 </div>
