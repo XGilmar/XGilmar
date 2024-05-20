@@ -1,5 +1,4 @@
 
-
 <!--[![21-sin-t-tulo-20220909013518.png](https://user-images.githubusercontent.com/86094668/202844041-69b4aca9-42e9-4a9b-b926-e98b62422fef.png)]()
 -->
 
@@ -8,7 +7,12 @@
 </div>
 
 <div align="left">
-<i align="left">¡Hola bienvenido a este espacio de código! 🚀 Soy <b>Gilmar</b>, un entusiasta desarrollador de software dedicado al <b>backend.</b> Aquí exploraremos juntos el fascinante mundo de la programación con diversos proyectos creados, ¡Prepárate para sumergirte en líneas de código y desafíos apasionantes! Si tienes alguna pregunta o simplemente quieres discutir sobre el emocionante universo del backend, ¡estoy aquí para ayudar! 👨‍💻✨</i>
+
+- 👋 <i>Hi, I’m <b>Gilmar</b></i>
+- 🌱 <i>I am an enthusiastic software developer with a special passion for the <b>backend.</b></i>
+- 👨‍💻 <i>In this space, I will share my projects and knowledge about programming, hoping to inspire and help other developers.</i>
+    
+
 </div>
 
 ##
