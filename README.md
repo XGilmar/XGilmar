@@ -12,18 +12,22 @@
 - 🌱 <i>I am an enthusiastic software developer with a special passion for the <b>backend.</b></i>
 - 👨‍💻 <i>In this space, I will share my projects and knowledge about programming, hoping to inspire and help other developers.</i>
 - 🚀 <i>I’m looking to collaborate on projects that take my skills to another level.</i>
-    
 
 </div>
 
 ##
 
+<table align="center">
+    <tr>
+        <td>
+        <img  height="200" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&rank_icon=github&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff">
+        </td>
+        <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGilmar&hide_progress=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff">
+        </td>
+    </tr>
+</table>
 
-
-<p align="center">
-    
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&rank_icon=github&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff">
-</p>
 
 
 <!--
