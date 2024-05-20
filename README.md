@@ -15,14 +15,14 @@
 
 </div>
 
-##
+#
 
 <table align="center">
     <tr>
-        <td>
+        <td style='border:none;'>
         <img  height="200" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&rank_icon=github&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff">
         </td>
-        <td>
+        <td style='border:none;'>
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGilmar&hide_progress=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff">
         </td>
     </tr>
@@ -44,13 +44,6 @@
 > **<p>Mis estadísticas</p>**
 
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
-
-  
   <a href="https://www.instagram.com/srjak.dev?r=nametag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gilmarescudero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
