@@ -17,6 +17,16 @@
 
 #
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,angular,react,java,spring,postgres,mysql,mongo" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postman" />
+  </a>
+</p>
 <!--<table align="center">
     <tr>
         <td style='border:none;'>
