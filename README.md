@@ -17,16 +17,33 @@
 
 #
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,angular,react,java,spring,postgres,mysql,mongo" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postman" />
-  </a>
-</p>
+
+
+<table align="left">
+  <tr>
+    <td>
+    <a href="https://github.com/angelliax">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Background Gif" width="300">
+    </a>  
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,angular,react,java,spring,postgres,mysql,mongo" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postman" />
+      </a>
+      </p>
+    </td>
+    <td style='border:none;'>
+        <img  height="200" src="https://github-readme-stats.vercel.app/api?username=XGilmar&show_icons=true&rank_icon=github&bg_color=30,0a0720,1e1a3d,0a0720&title_color=fff&text_color=fff">
+        </td>
+  </tr>
+</table>
+
 <!--<table align="center">
     <tr>
         <td style='border:none;'>
@@ -36,8 +53,8 @@
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XGilmar&hide_progress=true&bg_color=30,0a0720,1e1a3d,0a0720&title_color=fff&text_color=fff">
         </td>
     </tr>
-</table>
--->
+</table> -->
+
 
 
 <!--
