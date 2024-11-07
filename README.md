@@ -29,12 +29,12 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,angular,react,java,spring,postgres,mysql,mongo" />
+        <img src="https://skillicons.dev/icons?i=linux,angular,react,java,spring,postgres" />
         </a>
       </p>
       <p align="center">
         <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postman" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongo,docker,kubernetes,aws,postman" />
       </a>
       </p>
     </td>
